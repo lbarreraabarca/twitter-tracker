@@ -1,0 +1,9 @@
+cron-descriptor==1.2.24
+pandas
+google-cloud-bigquery
+PyYAML==5.3.1
+Jinja2==2.11.2
+pandavro==1.5.1
+pylint==2.4.4
+tweepy==3.9.0
+jsonpickle==1.4.1

@@ -1,0 +1,8 @@
+TWITTER:
+  QUERY: covid
+  LANG: es
+  DATE: 2020-09-20
+BIG_QUERY:
+  PROJECT: some_project
+  DATASET: some_dataset
+  TABLE: some_table
